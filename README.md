@@ -32,7 +32,7 @@ All pages use Tailwind’s responsive classes (`sm:`, `md:`, `lg:`) for optimal 
 - Consistent design across all pages
 
 ## Author
-- Developed by: [Your Name]
+- Developed by: Ashutosh Thapa
 - Course: CSCI 3030 — Internet Programming
 - Semester: Spring 2025
 
